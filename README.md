@@ -18,7 +18,7 @@ Ce projet est une implémentation du chiffre de César en langage C, avec une fo
 > Installation et exécution
 1. Cloner le dépôt
 git clone https://github.com/saida199/secure_caesar_cipher.git
-cd secure-caesar-cipher
+cd secure_caesar_cipher
 
 
 2. Compiler le programme
